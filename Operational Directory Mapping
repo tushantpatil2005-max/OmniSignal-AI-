@@ -1,0 +1,15 @@
+omnisignal-ai/
+├── server.ts                  # Multi-agent orchestrator, static page server, and API router (Express)
+├── memories.json              # Local JSON backup for historical analysis records
+├── src/
+│   ├── main.tsx               # Frontend UI DOM entry point
+│   ├── App.tsx                # Master dashboard state, layout, and control hub
+│   ├── types.ts               # Shared TypeScript models and interface declarations
+│   ├── index.css              # Global Tailwind style sheet imports and themes
+│   └── components/
+│       ├── UploadBox.tsx      # Multi-channel log ingestion hub with drag-and-drop & demo suites
+│       ├── SignalCard.tsx     # Specialized cards for rendering scored operational signals
+│       ├── ExecutiveSummary.tsx # Narrative synthesis reports & simulated standard LLM gap analysis
+│       └── WorkflowPanel.tsx  # Interactive mitigation steps with status triggers & reflection inspector
+├── package.json               # Bundling pipelines (esbuild + vite) and script variables
+└── tsconfig.json              # Strict TypeScript configurations
