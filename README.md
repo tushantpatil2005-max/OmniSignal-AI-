@@ -1,4 +1,4 @@
- OmniSignal AI
+no OmniSignal AI
 
 AI-native enterprise intelligence platform that transforms fragmented organizational communication into actionable workflows.
 
@@ -45,3 +45,16 @@ Railway / Fly.io
 cd frontend
 npm install
 npm run dev
+
+ Why This Is AI-Native
+
+OmniSignal AI is not a single LLM API wrapper.
+
+The platform uses multiple specialized AI agents that collaborate to:
+- extract operational intelligence,
+- prioritize business impact,
+- generate execution workflows,
+- validate outputs,
+- and maintain organizational memory.
+
+The workflow depends on reasoning, orchestration, memory retrieval, and evaluation loops.
