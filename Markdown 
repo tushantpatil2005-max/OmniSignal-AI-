@@ -1,0 +1,270 @@
+Your OmniSignal AI project already satisfies all four MUST requirements if you present it correctly in the repository.
+
+Here is exactly how you should frame each requirement inside your GitHub repo.
+
+1. “Use AI meaningfully (not just calling an API once)”
+
+How OmniSignal AI satisfies this
+
+This is not a simple chatbot wrapper.
+
+The system performs:
+
+multi-stage reasoning
+
+contextual memory retrieval
+
+workflow orchestration
+
+signal extraction
+
+prioritization
+
+autonomous execution planning
+
+reflection/evaluation passes
+
+
+Mention These AI Capabilities
+
+Multi-Agent Architecture
+
+Signal Extraction Agent
+
+Business Impact Agent
+
+Workflow Planning Agent
+
+Reflection Agent
+
+Memory Agent
+
+
+AI Responsibilities
+
+understanding messy enterprise communication
+
+identifying operational risk
+
+ranking urgency
+
+generating structured execution workflows
+
+validating hallucinations
+
+retrieving historical context
+
+
+Add This to README
+
+ Why This Is AI-Native
+
+OmniSignal AI is not a single LLM API wrapper.
+
+The platform uses multiple specialized AI agents that collaborate to:
+- extract operational intelligence,
+- prioritize business impact,
+- generate execution workflows,
+- validate outputs,
+- and maintain organizational memory.
+
+The workflow depends on reasoning, orchestration, memory retrieval, and evaluation loops.
+
+
+---
+
+2. “Show evidence of workflow design, agents, evaluation loops, or custom prompting”
+
+You Already Have This
+
+Your architecture already includes:
+
+agent orchestration
+
+reflection loop
+
+prompt engineering
+
+workflow generation
+
+evaluation framework
+
+
+Add an Architecture Diagram
+
+Put this inside README:
+
+Input Documents
+      ↓
+Signal Extraction Agent
+      ↓
+Business Impact Agent
+      ↓
+Workflow Planning Agent
+      ↓
+Reflection Agent
+      ↓
+Executive Dashboard
+
+
+---
+
+Show Prompt Engineering
+
+Add Real Prompts
+
+Example
+
+ Prompt Example — Signal Extraction Agent
+
+You are an enterprise operations analyst.
+
+Extract:
+- blockers
+- deadlines
+- customer risks
+- operational bottlenecks
+- escalation signals
+
+Return structured JSON.
+
+
+---
+
+Show Evaluation Loop
+
+Add This Section
+
+ Evaluation Layer
+
+The system compares:
+- raw LLM output
+vs
+- reflection-validated workflows
+
+Evaluation Criteria:
+- actionability
+- prioritization quality
+- hallucination detection
+- operational usefulness
+
+
+---
+
+3. “Be deployed live”
+
+This is extremely important.
+
+You MUST deploy it.
+
+Recommended Deployment
+
+Frontend
+
+Deploy on:
+
+Vercel
+
+
+Backend
+
+Deploy on:
+
+Railwayor
+
+Fly.io
+
+
+
+---
+
+Suggested Final Stack
+
+Layer	Platform
+
+Frontend	Next.js on Vercel
+Backend	FastAPI on Railway
+Database	ChromaDB
+AI Models	GPT-4.1 / Claude
+Repo	GitHub
+
+
+
+---
+
+4. “Document how AI tools were used”
+
+This part is where most candidates fail.
+
+You should explicitly explain HOW AI accelerated development.
+
+Add This Entire Section
+
+ AI-Assisted Development Workflow
+
+This project was built using an AI-native engineering workflow.
+
+ Tools Used
+
+### Cursor
+Used for:
+- rapid backend scaffolding
+- refactoring
+- debugging
+- multi-file edits
+
+ Claude
+Used for:
+- system design brainstorming
+- prompt refinement
+- workflow architecture
+- evaluation methodology
+
+ ChatGPT
+Used for:
+- agent workflow planning
+- README drafting
+- prompt experimentation
+- architecture iteration
+
+ v0
+Used for:
+- dashboard UI generation
+- frontend inspiration
+- rapid component prototyping
+
+ Human Contributions
+
+Manual engineering decisions included:
+- multi-agent architecture design
+- orchestration logic
+- evaluation methodology
+- workflow sequencing
+- prompt refinement
+- enterprise use-case framing
+
+
+---
+
+MOST IMPORTANT THING
+
+MUST is not testing whether you can code manually faster than AI.
+
+They are testing:
+
+AI leverage
+
+systems thinking
+
+product intuition
+
+deployment ability
+
+operational reasoning
+
+workflow orchestration
+
+ability to ship quickly
+
+
+OmniSignal AI is aligned with exactly that evaluation style.
