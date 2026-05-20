@@ -1,4 +1,4 @@
-no OmniSignal AI
+ OmniSignal AI
 
 AI-native enterprise intelligence platform that transforms fragmented organizational communication into actionable workflows.
 
